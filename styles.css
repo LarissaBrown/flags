@@ -1,0 +1,463 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body {
+    background:silver;
+}
+div {
+    display:inline-block;
+    
+}
+.FranceBlue {
+    display: inline-block;
+    background-color: rgb(5, 5, 156);
+    position: relative;
+    left: 10px;
+    width: 300px;
+    height: 600px;
+}
+.FranceWhite {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    background-color: White;
+    width: 300px;
+    height: 600px;
+}
+.FranceRed {
+    display: inline-block;
+    background-color: rgb(187, 8, 8);
+    width: 300px;
+    height: 600px;
+}
+
+
+
+
+
+.GermanyBlack {
+    display:block;
+    background-color: black;
+    width: 900px;
+    height: 200px;
+}
+.GermanyRed {
+    display:block;
+    background-color:red;
+    width: 900px;
+    height: 200px;
+}
+.GermanyYellow {
+    display: inline-block;
+    background-color: yellow;
+    width:900px;
+    height: 200px;
+}
+
+
+
+
+
+.whitespace {
+    width: 100%;
+    height: 20px;
+    background-color: white;
+    display: block;
+}
+
+
+.bodyMadagascar {
+    box-sizing: border-box;
+}
+
+.MadagascarWhite {
+    position: relative;
+    left: 5px;
+    background: white;
+    width: 300px;
+    height: 550px;
+}
+
+.MadagascarRed {
+    background: rgb(182, 5, 5);
+    width: 600px;
+    height: 275px;
+    position: absolute;
+    
+}
+.MadagascarGreen {
+    background: rgb(4, 92, 4);
+    width: 600px;
+    height: 275px;
+}
+
+
+
+.containerSwiss {
+    width: 910px;
+    height: auto;
+    
+
+}
+
+.redRow {
+    background: red;
+    width: 900px;
+    height: 180px;
+    position: relative;
+    float: left;
+}
+
+.redRectangleTop {
+    background: red;
+    width: 360px;
+    height: 180px;
+    position: relative;
+    float: left;
+}
+
+.whiteSquare {
+    background: whitesmoke;
+    width: 180px;
+    height: 180px;
+    position: relative;
+    float: left;
+}
+.redSquare {
+    background: red;
+    width: 180px;
+    height: 180px;
+    position: relative;
+    float: left;
+    
+}
+.whiteRectangle {
+    background: whitesmoke;
+    width: 540px;
+    height: 180px;
+    position: relative;
+    float: left;
+}
+.redRectangleBottom {
+    background: red;
+    width: 360px;
+    height: 180px;
+    position: relative;
+    float: left;
+}
+
+
+
+
+.containerSweden {
+    width: 900px;
+    height: auto;
+}
+
+.blueLeft {
+    background: rgb(58, 93, 247);
+    width: 360px;
+    height: 240px;
+    position: relative;
+    float: left; 
+}
+
+.yellowMid {
+    background: rgb(216, 216, 48);
+    width: 120px;
+    height: 240px;
+    position: relative;
+    float: left;
+}
+ 
+.blueRight {
+    background: rgb(58, 93, 247);
+    width: 360px;
+    height: 240px;
+    position: relative;
+    float: left;
+}
+ 
+.yellowHorizontal {
+    background: rgb(216, 216, 48);
+    width: 840px;
+    height: 120px;
+    position: relative;
+    float: left;
+}
+
+.containerGambia {
+    width: 900px;
+    height: auto;
+}
+
+.redStripe {
+    background: rgb(170, 29, 29);
+    width: 900px;
+    height: 200px;
+    position: relative;
+    float: left;
+}
+
+.whiteStripe {
+   background: whitesmoke;
+   width: 900px;
+   height: 25px;
+   position: relative;
+   float: left;
+}
+
+.blueStripe {
+    background: rgba(11, 11, 145, 0.904);
+    width: 900px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+
+.greenStripe {
+    background: rgb(19, 85, 19);
+    width: 900px;
+    height: 200px;
+    position: relative;
+    float: left;
+}
+
+.containerTonga {
+    width: 900px;
+    height: auto;
+}
+
+.whiteRow {
+    background: whitesmoke;
+    width: 350px;
+    height: 25px;
+    position: relative;
+    float: left;
+}
+
+.redR {
+    background: red;
+    width: 500px;
+    height: 25px;
+    position: relative;
+    float: left;
+}
+
+.whiteRect {
+    background: whitesmoke;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.redCrossSquare {
+    background: red;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.redFlagRectangle {
+    background: red;
+    width: 500px;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.whiteShortRectangle {
+    background: whitesmoke;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.redCrossRectangle {
+    background: red;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    float: left;
+}
+
+.redFlagBottomRow {
+    background: red;
+    width: 850px;
+    height: 200px;
+    position: relative;
+    float: left;
+}
+
+
+.whiteFlagJapan {
+    background: whitesmoke;
+    width: 600px;
+    height: 400px;
+    position: relative;
+    float: left;
+}
+
+.redCircleJapan {
+    background: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+.containerGreece {
+    width: 680px;
+    height: 480px;
+}
+
+.containerGreece div {
+    position: relative;
+    float: left;
+}
+
+.blueSqu {
+    background: cornflowerblue;
+    width: 100px;
+    height: 50px;
+   
+}
+.whiteVertical {
+    background: whitesmoke;
+    width: 50px;
+    height: 50px;
+   
+}
+
+.longSideStripeBlue {
+    background: cornflowerblue;
+    width: 500px;
+    height: 50px;
+    
+}
+
+
+.longSideStripeWhite {
+    background: whitesmoke;
+    width: 400px;
+    height: 50px;
+}
+
+.whiteHorizontalCross {
+    background: whitesmoke;
+    width: 250px;
+    height: 50px;
+}
+
+.sideStripeBlue {
+    background: cornflowerblue;
+    width: 400px;
+    height: 50px;
+}
+
+
+.flagStripeWhite {
+    background: whitesmoke;
+    width: 650px;
+    height: 50px;
+
+}
+
+.flagStripeBlue  {
+    background: cornflowerblue;
+    width: 650px;
+    height: 50px;
+
+
+}
+
+.containerNiger {
+    width: 910px;
+    height: 610px;
+}
+.containerNiger div {
+    position: relative;
+    float:left;
+}
+
+.stripe {
+    width: 900px;
+    height: 200px;
+
+}
+
+#orange {
+    background: rgb(255, 72, 0);
+
+}
+
+#white {
+    background: whitesmoke;
+}
+
+#green {
+    background: green;
+}
+
+.orangeCircle {
+    background: rgb(255, 72, 0);
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    position: relative;
+    left: 370px;
+    top: 16px;
+}
+
+.containerMaldives {
+    width: 910px;
+    height: 610px;
+}
+
+.containerMaldives div {
+    position: relative;
+    float: left;
+}
+
+.redBackground {
+    background: rgb(167, 36, 36);
+    width: 900px;
+    height: 600px;
+
+    
+}
+
+.greenBackground {
+    background: rgb(51, 112, 51);
+    width: 550px;
+    height: 300px;
+    left: 175px;
+    top: 150px;
+}
+
+.whiteMoon {
+    background: whitesmoke;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    left: 180px;
+    top: 50px;
+}
+
+.moonShadow {
+    background: rgb(51, 112, 51);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    left: 10px;
+    top: 50px;
+
+}
